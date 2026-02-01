@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Signalist — Stock Market App
+Next.js · Shadcn · Better Auth · Inngest  
 
-## Getting Started
+A modern, AI-powered stock market tracker app built with **Next.js**, **Shadcn**, **Better Auth**, and **Inngest**. Track real-time stock prices, set personalized alerts, explore company insights, and manage watchlists with a powerful admin dashboard.
 
-First, run the development server:
+---
+
+📦 **Signalist Stock Market App**  
+This repository contains the full source code for a real-time stock tracking platform.  
+Developed by **Soham Vyas**, showcasing full-stack development and event-driven workflow automation.
+
+---
+
+🔗 **GitHub Repository:**  
+[https://github.com/soham-v14/Signalist-stock-tracker-app](https://github.com/soham-v14/Signalist-stock-tracker-app)
+
+---
+
+🤖 **Introduction**  
+Signalist is a real-time, AI-powered stock market app.  
+It includes features like stock dashboards, watchlists, alerts, company insights, automated workflows, and AI-driven summaries.
+
+This project demonstrates:  
+- Full-stack application development with Next.js  
+- Authentication & authorization with Better Auth  
+- Event-driven workflows with Inngest  
+- AI-powered insights integration  
+- Scalable and maintainable project architecture  
+
+---
+
+⚙️ **Tech Stack**  
+- **Next.js** – React framework with server-side rendering & API routes  
+- **Shadcn** – Customizable React UI components  
+- **TailwindCSS** – Utility-first CSS framework  
+- **TypeScript** – Static typing for better code quality  
+- **Better Auth** – Authentication & authorization  
+- **Finnhub API** – Real-time stock, forex, and crypto data  
+- **Inngest** – Event-driven workflows & automation  
+- **MongoDB** – Flexible NoSQL database  
+- **Nodemailer** – Email notifications  
+
+---
+
+🔋 **Features**  
+✅ Real-time stock dashboard with line & candlestick charts  
+✅ Powerful search for finding stocks  
+✅ Personalized watchlists & price alerts  
+✅ Company insights: PE ratio, EPS, revenue, news, analyst ratings  
+✅ Event-driven workflows with Inngest for automated alerts & summaries  
+✅ AI-powered daily digests and notifications  
+✅ Analytics on user behavior and stock trends  
+✅ Clean, scalable, and maintainable project structure  
+
+---
+
+🤸 **Quick Start**  
+
+### Prerequisites
+- Node.js  
+- npm  
+- Git  
+
+---
+
+### 1️⃣ Clone the Repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/soham-v14/Signalist-stock-tracker-app.git
+cd Signalist-stock-tracker-app
